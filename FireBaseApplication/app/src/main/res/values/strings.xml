@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBaseApplication</string>
+    <string name="emailpassword_status_fmt">user is logged in</string>
+</resources>
